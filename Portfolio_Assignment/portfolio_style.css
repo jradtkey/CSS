@@ -1,0 +1,267 @@
+.container{
+  width: 970px;
+  height: 1270px;
+  /*outline: 1px dotted red;*/
+  background-color: #6c5661;
+}
+
+.header{
+  width:100%;
+  /*outline: 1px dotted yellow;*/
+  background-color: #fcfcfc;
+  margin-bottom: 30px;
+}
+
+.header h1{
+  width:
+  margin: 0px;
+  padding: 10px 0px 10px 30px;
+  display: inline-block;
+}
+
+.header h2{
+  margin: 0px;
+  display: inline-block;
+  /*outline: 1px dotted yellow;*/
+  text-align: right;
+  padding-left: 590px;
+  font-family: Arial;
+}
+
+#upper{
+  width: 970px;
+  height: 330px;
+  /*outline: 1px dotted yellow;*/
+  display: inline-block;
+}
+
+#box-1{
+  width: 430px;
+  height: 300px;
+  margin-left: 30px;
+  display: inline-block;
+  border-style: solid;
+  vertical-align: top;
+}
+
+#box-1 img{
+  width: 430px;
+  height: 300px;
+}
+
+#box-2{
+  width: 430px;
+  height: 300px;
+  margin-left: 30px;
+  display: inline-block;
+  border-style: solid;
+  background-color: #dfd2de;
+}
+
+.box-1-header{
+  background-color: #878593;
+  margin: 0px;
+  padding: 2px 0px 2px 4px;
+}
+
+.About-me{
+  padding-left: 4px;
+}
+
+.column-1{
+  width: 283.33px;
+  height: 450px;
+  /*outline: 1px dotted yellow;*/
+  margin-left: 30px;
+  display: inline-block;
+  background-color: #dfd2de
+}
+
+.lamode{
+  background-color: #878593;
+  margin: 0px;
+  padding: 2px 0px 2px 0px;
+}
+
+.column-1 img{
+  height: 150px;
+  width: 283.33px;
+  margin: 0px;
+  padding-bottom: 0px;
+}
+
+.column-2{
+  width: 283.33px;
+  height: 450px;
+  /*outline: 1px dotted yellow;*/
+  margin-left: 30px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: #dfd2de;
+}
+
+.familycntcs{
+  background-color: #878593;
+  margin: 0px;
+  padding: 2px 0px 2px 0px;
+}
+
+.column-2 img{
+  height: 150px;
+  width: 283.33px;
+  margin: 0px;
+  padding-bottom: 0px;
+}
+
+.column-3{
+  width: 283.33px;
+  height: 450px;
+  /*outline: 1px dotted yellow;*/
+  margin-left: 30px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: #dfd2de;
+}
+
+.fiveeleven{
+  background-color: #878593;
+  margin: 0px;
+  padding: 2px 0px 2px 0px;
+}
+
+.column-3 img{
+  height: 150px;
+  width: 283.33px;
+  margin: 0px;
+  padding-bottom: 0px;
+}
+
+.column-4{
+  width: 283.33px;
+  height: 260px;
+  /*outline: 1px dotted yellow;*/
+  margin-left: 30px;
+  display: inline-block;
+  background-color: #dfd2de;
+}
+
+.tech-4{
+  background-color: #878593;
+  margin: 0px;
+  padding: 2px 0px 2px 0px;
+}
+
+.img-4{
+  margin-left: 8px;
+  margin-top: 8px;
+}
+
+.img-4 img{
+  width: 50px;
+  height: 50px;
+}
+
+.column-4 input{
+  margin-top: 15px;
+  margin-left: 103px;
+  background-color: #407d61;
+  border: none;
+  color: white;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+.column-5{
+  width: 283.33px;
+  height: 260px;
+  /*outline: 1px dotted yellow;*/
+  margin-left: 30px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: #dfd2de;
+}
+
+.tech-5{
+  background-color: #878593;
+  margin: 0px;
+  padding: 2px 0px 2px 0px;
+}
+
+.img-5{
+  margin-left: 8px;
+  margin-top: 8px;
+}
+
+.img-5 img{
+  width: 50px;
+  height: 50px;
+}
+
+.column-5 input{
+  margin-top: 15px;
+  margin-left: 67.11px;
+  background-color: #407d61;
+  border: none;
+  color: white;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+.column-6{
+  width: 283.33px;
+  height: 260px;
+  /*outline: 1px dotted yellow;*/
+  margin-left: 30px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: #dfd2de;
+}
+
+.tech-6{
+  background-color: #878593;
+  margin: 0px;
+  padding: 2px 0px 2px 0px;
+}
+
+.img-6{
+  margin-left: 8px;
+  margin-top: 8px;
+}
+
+.img-6 img{
+  width: 50px;
+  height: 50px;
+}
+
+.column-6 input{
+  margin-top: 15px;
+  margin-left: 88.97px;
+  background-color: #407d61;
+  border: none;
+  color: white;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+.footer{
+  width: 970px;
+  height: 70px;
+  /*outline: 1px dotted red;*/
+  background-color: #fcfcfc;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.links{
+  display: inline-block;
+}
+
+.links img{
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+}
+
+.links a{
+  display: inline-block;
+}
